@@ -1,0 +1,13 @@
+ 
+ body {
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+ }
+
+ img{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+ }
+ 

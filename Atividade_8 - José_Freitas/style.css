@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+img{
+	width: 80px;
+	height: 100px;
+}
+
+#guarda_redes{
+	position: fixed;
+	top: 5%;
+	left: 50%;
+}
+
+#defesa1{
+	position: fixed;
+	top: 25%;
+	left: 20%;
+}
+
+#defesa2{
+	position: fixed;
+	top: 25%;
+	left: 40%;
+}
+
+#defesa3{
+	position: fixed;
+	top: 25%;
+	left: 60%;
+}
+
+#defesa4{
+	position: fixed;
+	top: 25%;
+	left: 80%;
+}
+
+#medio1{
+	position: fixed;
+	top: 50%;
+	left: 20%;
+}
+
+#medio2{
+	position: fixed;
+	top: 50%;
+	left: 40%;
+}
+
+#medio3{
+	position: fixed;
+	top: 50%;
+	left: 60%;
+}
+
+#medio4{
+	position: fixed;
+	top: 50%;
+	left: 80%;
+}
+
+#ataque1{
+	position: fixed;
+	top: 75%;
+	left: 40%;
+}
+
+#ataque2{
+	position: fixed;
+	top: 75%;
+	left: 60%;
+}

@@ -1,0 +1,65 @@
+body {
+    background-color: FFFFFF;
+}
+
+#circuito {
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 428px;
+    height: 376px;
+    margin: auto;
+}
+
+div.interruptor {
+    display: inline-block;
+    position: absolute;
+	opacity: 1.0;
+	z-index: 1;
+    bottom: 0;
+    right: 0;
+}
+
+div.lampada {
+    display: inline-block;
+    position: absolute;
+	opacity: 1.0;
+	z-index: 1;
+    bottom: 0;
+    right: 0;
+}
+
+#int1 {
+    left: 95;
+    top: 22;
+}
+
+#int2 {
+    left: 225;
+    top: 23;
+}
+
+#int3 {
+    left: 155;
+    top: 105;
+}
+
+#int4 {
+    left: 110;
+    top: 249;
+}
+
+#int5 {
+    left: 110;
+    top: 307;
+}
+
+#lamp1 {
+    left: 290;
+    top: 243;
+}
+
+
